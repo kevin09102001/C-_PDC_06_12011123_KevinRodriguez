@@ -103,6 +103,3 @@
 ---
 
 
-## :computer: Repositorio
-
-- :blue_book: [Link directo del repositorio](https://github.com/kevin09102001/PDC_09_Kevin-Josue-Rodriguez_12011123)
